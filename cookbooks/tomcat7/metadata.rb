@@ -1,3 +1,5 @@
+
+name             "tomcat7"
 maintainer       "Vladislav Mikhaylov"
 maintainer_email "solarvm@gmail.com"
 license          "AGPL"
