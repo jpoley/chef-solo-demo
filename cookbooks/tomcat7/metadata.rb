@@ -1,6 +1,6 @@
 
 name             "tomcat7"
-maintainer       "Jason Poleyv"
+maintainer       "Jason Poley"
 maintainer_email "jason.poley@gmail.com"
 license          "AGPL"
 description      "Installs/Configures tomcat7 binary distrib"
